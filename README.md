@@ -1,4 +1,4 @@
-# 🏍️✨ **TALLER MOTOS** ✨
+ 🏍️✨ **TALLER MOTOS** ✨
 
 **Taller Motos** es un proyecto web desarrollado como trabajo final en la materia de **Sistemas Informáticos**, que busca gestionar y organizar las reservas de servicios en un taller mecánico de motocicletas.  
 
@@ -6,12 +6,12 @@ El proyecto refleja la aplicación práctica de todos los conocimientos adquirid
 
 ---
 
-## 💡 **Descripción General**
+ 💡 **Descripción General**
 
 El sistema permite **registrar clientes, gestionar servicios y organizar reservas** de manera digital.  
 Con una interfaz clara y funcional, facilita la comunicación entre el taller y los clientes, agilizando el trabajo y mejorando la atención.
 
-### 🎯 **Objetivos Principales**
+ 🎯 **Objetivos Principales**
 - Modernizar el proceso de atención en talleres mecánicos.  
 - Centralizar los datos de clientes y servicios en una base de datos.  
 - Fortalecer las habilidades en diseño web y programación.  
@@ -19,7 +19,7 @@ Con una interfaz clara y funcional, facilita la comunicación entre el taller y 
 
 ---
 
-## 🧠 **Tecnologías Utilizadas**
+ 🧠 **Tecnologías Utilizadas**
 
 | 💻 Herramienta | 🧩 Uso Principal |
 |----------------|------------------|
@@ -31,7 +31,7 @@ Con una interfaz clara y funcional, facilita la comunicación entre el taller y 
 
 ---
 
-## ⚙️ **Características del Proyecto**
+ ⚙️ **Características del Proyecto**
 - 📋 Registro y gestión de clientes.  
 - 🛠️ Control de servicios y reservas.  
 - 🧾 Conexión a base de datos MySQL.  
@@ -40,27 +40,27 @@ Con una interfaz clara y funcional, facilita la comunicación entre el taller y 
 
 ---
 
-## 🧭 **Aprendizaje y Avances en la Materia de Sistemas Informáticos**
+🧭 **Aprendizaje y Avances en la Materia de Sistemas Informáticos**
 
 El desarrollo de este proyecto fue el resultado de todo lo aprendido a lo largo de los tres trimestres del año.
 
 ---
 
-### 🧩 **Primer Trimestre**
+🧩 **Primer Trimestre**
 - Elaboración de la **documentación inicial del proyecto** (viabilidad, objetivos, planificación).  
 - Estudio de **direcciones IP**, redes locales y su funcionamiento.  
 - Conocimiento general sobre **lenguajes de programación** y sus aplicaciones.  
 
 ---
 
-### 💻 **Segundo Trimestre**
+ 💻 **Segundo Trimestre**
 - Creación de **páginas web con Visual Studio Code**.  
 - Uso de **HTML, CSS y JavaScript** para construir interfaces interactivas.  
 - Desarrollo de **sitios individuales y grupales**, aplicando buenas prácticas de diseño.  
 
 ---
 
-### 🗂️ **Tercer Trimestre**
+ 🗂️ **Tercer Trimestre**
 - Culminación de la **documentación y el producto final**.  
 - Creación de **páginas dinámicas conectadas a bases de datos** (PHP–MySQL).  
 - Trabajo colaborativo en **equipos de desarrollo web**.  
@@ -68,7 +68,7 @@ El desarrollo de este proyecto fue el resultado de todo lo aprendido a lo largo 
 
 ---
 
-## 🌟 **Conclusión**
+ 🌟 **Conclusión**
 
 El proyecto **Taller Motos** representa mucho más que una simple página web: es el reflejo del crecimiento, la dedicación y la capacidad de aplicar la teoría en la práctica.  
 Durante el desarrollo de este trabajo aprendimos a planificar, diseñar, programar y resolver problemas reales utilizando herramientas tecnológicas que nos preparan para el ámbito profesional.  
@@ -82,7 +82,7 @@ El resultado final es un proyecto funcional y bien estructurado que demuestra el
 
 ---
 
-## 👩‍💻 **Autoras**
+ 👩‍💻 **Autoras**
 
 - **Sahory Delaida Córdova Alba**  
 - **Helen Johana Rivero Castro**
@@ -91,4 +91,5 @@ El resultado final es un proyecto funcional y bien estructurado que demuestra el
 ![Moto2](img/moto2.PNG)
 
 📘 *Materia:* Sistemas Informáticos  
+
 📆 *Gestión:* 2025
