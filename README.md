@@ -97,10 +97,9 @@ El resultado final es un proyecto **funcional y bien estructurado**, demostrando
 
 ---
 ## 📘 Materia
-**Sistemas Informáticos**
-
+Sistemas Informáticos
 ## 📆 Gestión
 2025
 
----
+
 
